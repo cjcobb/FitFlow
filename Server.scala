@@ -45,6 +45,11 @@ object HTTPServer {
 		-1
 	}
 
+	def register(username : String, event : Event) =
+	{
+		-1
+	}
+
 
 
 
